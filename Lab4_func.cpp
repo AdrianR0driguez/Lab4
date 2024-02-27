@@ -11,4 +11,6 @@ double division(double x, double y){
     return divide;
 }
 
-
+bool isGreaterThan(double x, int y){
+    return x > y;
+}
