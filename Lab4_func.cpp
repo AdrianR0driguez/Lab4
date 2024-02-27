@@ -6,4 +6,9 @@ int sumOfThree(int x, int y, int z){
       return sum;
 }
 
+double division(double x, double y){
+    double divide = x / y;
+    return divide;
+}
+
 
